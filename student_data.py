@@ -6,7 +6,7 @@ students = [{
     "MName": "Lynn",
     "HR": "B211",
     "GL": 10,
-    "Email": ["karenanderson@example.com", "karen.a@example.net"]
+    "Email": ["karenanderson@example.com", "aren.a@example.netk"]
 }, {
     "CPSID": 10000012,
     "Combo,Name": "Thomas, Liam",
